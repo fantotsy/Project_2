@@ -1,0 +1,1 @@
+purpose of programming is to find a sequence of instructions that will automate performing a specific task or solving a given problem. process of programming thus often requires expertise in many different subjects, including knowledge of application domain, specialized algorithms and formal logic.
